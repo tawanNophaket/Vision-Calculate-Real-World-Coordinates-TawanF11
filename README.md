@@ -1,5 +1,8 @@
 # Vision Calculate X, Y, Z Real World Coordinates
 
+### Weekly progress : 
+Please submit the mission progress report weekly, with the count beginning on Monday.
+https://drive.google.com/drive/folders/1GHSxOlMksPtX5ELdGl0nE9wDlvAI7Dgg?usp=sharing โฟล์เดอร์ 
 ### Mission:
 The objective of this project is to calculate the real-world X, Y, and Z coordinates of a ball relative to the Webcam Rapoo C260. The system will measure the distance (depth) between the ball and the camera, as well as provide the (x, y) coordinates when compared to the camera position (0,0). Additionally, the diameter of the ball should be determined as close as possible to its real-world size.
 
